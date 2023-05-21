@@ -1,0 +1,17 @@
+<!---------Install Dependency-------!>
+
+> npm init -y
+> npm install express 
+> npm install --save-dev @types/express typescript ts-node nodemon 
+> npm install -g typescript
+> tsc --init
+        -> enable scripts : rootDir, outDir,experimentalDecorators, emitDecoratorMetadata, strictPropertyInitialization: false 
+
+
+
+//---Install TypeOrm---//
+
+> npm install typeorm --save
+> npm install reflect-metadata --save
+> npm install @types/node --save-dev
+> npm install pg --save
